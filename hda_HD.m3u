@@ -2,3 +2,9 @@
 
 #EXTINF:0 type="video", 20-Agosto-2018
 http://
+
+#EXTINF:0 type="video" group-tittle="Temporadas", ÚLTIMOS ESTRENOS
+http://
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="ESTRENOS", 09 Blenanas
+https://goo.gl/WaQGdK
