@@ -1,12 +1,7 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:0 type="video", 20-Agosto-2018
 http://
-#EXTINF:0 type="video" group-tittle="Temporadas", ÚLTIMOS ESTRENOS
-http://
-
-#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="ESTRENOS", 09 Blenanas
-https://goo.gl/WaQGdK
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 1
 http://
@@ -153,7 +148,6 @@ https://goo.gl/qFRGK2
 https://goo.gl/xXwsHj
 
 #EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="8va Temp", PRÓXIMANENTE
-
 https://
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 9
