@@ -5,15 +5,15 @@
 http://
 
 #EXTINF:0 group-title="Temporadas", Temporada 1 ==> 
-#EXTGRP:Temporada 1
+#EXTGRP:Temporada_1
 https://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/D/2/B/2/8/4/0D1.jpg" aspect-ratio="16:9" group-title="1ra Temp" , 01 Star llega a la Tierra 
-#EXTGRP:Temporada 1
+#EXTGRP:Temporada_1
 https://goo.gl/hmTgqx
 
 #EXTINF:0, 02 De fiesta con una Pony
-#EXTGRP:Temporada 1
+#EXTGRP:Temporada_1
 https://goo.gl/8js57Y
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/D/2/B/2/8/4/0D1.jpg" aspect-ratio="16:9" group-title="1ra Temp" , 03 La casamentera
