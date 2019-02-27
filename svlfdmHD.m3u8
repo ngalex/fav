@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 type="video" aspect-ratio="16:9" , 03-Diciembre-2018
-#EXTGRP:26-Febrero-2019 
+#EXTINF:0 type="video" aspect-ratio="16:9" , 27-Febrero-2019 
+#EXTGRP:27-Febrero-2019 
 http://
 
 #EXTINF:0 group-title="Temporadas", Temporada 1 ==> 
@@ -189,70 +189,91 @@ https://goo.gl/7db6Vj
 https://goo.gl/Q8pqb3
 
 #EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 21 PROXIMAMENTE
+#EXTGRP:Temporada 2
 http://
 
 #EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 22 PROXIMAMENTE
+#EXTGRP:Temporada 2
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 23 Dentro de la varita
-http://sendvid.com/p55zbk66.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/PX7z9m
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 24 Mas que una pizza
-http://sendvid.com/fftwpphh.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/UPGUpr
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 25 Dar vuelta la pagina
-http://sendvid.com/e9ovfhih.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/otHTVy
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 26 El NoLoDiga
-
-http://sendvid.com/7s2xfcbq.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/2VHULA
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 27 Bon Bon El Payaso de Cumplean'os
-http://sendvid.com/lil534sm.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/GRVuSF
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 28 El asalto a la cueva
+#EXTGRP:Temporada 2
 https://goo.gl/5vmcGS
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 29 Star y el farsante
+#EXTGRP:Temporada 2
 https://goo.gl/d3vzKx
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 30 Baby
-http://dl.dropboxusercontent.com/s/97bdwyartu1ct55/svlfdms2e30_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/97bdwyartu1ct55/svlfdms2e30_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 31 Corriendo con tijeras
-http://dl.dropboxusercontent.com/s/troe15a5yplhw5t/svlfdms2e31_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/troe15a5yplhw5t/svlfdms2e31_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 32 Matemagia
-http://dl.dropboxusercontent.com/s/79ripc164uvb2j8/svlfdms2e32_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/79ripc164uvb2j8/svlfdms2e32_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 33 El Rebonubes
-http://dl.dropboxusercontent.com/s/3bukejpcw4gb939/svlfdms2e33_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/3bukejpcw4gb939/svlfdms2e33_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 34 Claro como el cristal
-http://dl.dropboxusercontent.com/s/th3zfove29mlwhe/svlfdms2e34_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/th3zfove29mlwhe/svlfdms2e34_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 35 El camino dificil
-http://dl.dropboxusercontent.com/s/d7rymbdcm0el3mh/Svlfdms2e35_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/d7rymbdcm0el3mh/Svlfdms2e35_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 36 Heinous 
-http://sendvid.com/00dr18b4.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/B8rXQj
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 37 Cintas Sueltas
-http://dl.dropboxusercontent.com/s/gg4tzdkabteqoik/svlfdms2e37_1.mp4?dl=0
+#EXTGRP:Temporada 2
+http://dl.dropboxusercontent.com/s/gg4tzdkabteqoik/svlfdms2e37_1.mp4?dl=1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 38 Dano Colateral
-https://goo.gl/CRE38j
+#EXTGRP:Temporada 2
+https://goo.gl/PLg9mk
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 39 Amigos y no mas
-https://goo.gl/ayf9vF
+#EXTGRP:Temporada 2
+https://goo.gl/ZKeSmv
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 40 Encara la musica
-https://goo.gl/FtVuxy
+#EXTGRP:Temporada 2
+https://goo.gl/M683qL
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 41 Star enamorada
-https://goo.gl/vcd9ph
+#EXTGRP:Temporada 2
+https://goo.gl/qUCb6s
 
 #EXTINF:0 group-title="Temporadas", Temporada 3 ==>
+#EXTGRP:Temporada 3
 https://
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="3ra Temp", 01-07 La Batalla por Mewni
@@ -260,3 +281,5 @@ https://
 https://goo.gl/FMSntV
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="3ra Temp", 08 PROXIMAMENTE
+#EXTGRP:Temporada 3
+http://
