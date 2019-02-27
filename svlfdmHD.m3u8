@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="video" aspect-ratio="16:9" , 03-Diciembre-2018
-#EXTGRP:03-Diciembre-2018 
+#EXTGRP:26-Febrero-2019 
 http://
 
 #EXTINF:0 group-title="Temporadas", Temporada 1 ==> 
@@ -109,69 +109,89 @@ https://goo.gl/EcYo6k
 https://
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 01 Mi nueva varita
-http://sendvid.com/b959o6j7.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/aTQWKr
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 02 Ludo Salvaje 
-http://sendvid.com/vac5nreo.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/LQJAkG
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 03 La guia del Sr. Candle
-http://sendvid.com/dkdi3ceh.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/8YFuwQ
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 04 Cinta Roja
-http://sendvid.com/yz80taq5.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/xHVvxu
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 05 Star Sobre Ruedas
-http://sendvid.com/o134z5kd.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/wEja5P
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 06 El perro
-http://sendvid.com/2nooh0ad.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/etLLzr
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 07 Star vs. Eco Arroyo
-http://sendvid.com/2qc2c94v.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/qUk9HW
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 08 Mi media varita
-http://sendvid.com/m1wztd44.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/4kTzBV
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 09 Star La Guerrera
-http://sendvid.com/46h8gyg4.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/Z5QhMb
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 10 De campamento
-http://sendvid.com/58sk1216.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/nP51zx
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 11 Star la ninera
-http://sendvid.com/gzasmglg.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/zPw8ds
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 12 En el ruedo
-http://sendvid.com/7g6meihi.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/QMmeqq
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 13 Salchiduendes
-http://sendvid.com/99bra258.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/yxLRmb
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 14 Lo que el libro indica
-http://sendvid.com/nat2baky.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/Gpuccb
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 15 Juego de Banderas  
-http://sendvid.com/1fgnegab.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/Vh5GiP
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 16 Dia de chicas
-http://sendvid.com/kr33ehzi.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/biu5nB
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 17 Fiesta de pijamas
-http://sendvid.com/4sc4igcj.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/qW9J5V
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 18 Tarjeta de Regalo
-http://sendvid.com/tkfkmpng.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/FkypKK
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 19 Amigos-enemigos
-http://sendvid.com/h5mpwy6j.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/7db6Vj
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 20 Es un misterio
-http://sendvid.com/h16zqnh3.mp4
+#EXTGRP:Temporada 2
+https://goo.gl/Q8pqb3
 
-#EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 21 ESTRENO HALLOWEEN 2017
+#EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 21 PROXIMAMENTE
 http://
 
-#EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 22 ESTRENO HALLOWEEN 2017
+#EXTINF:0 type="video" aspect-ratio="16:9" tvg-logo="https://cronicasnormales.files.wordpress.com/2008/11/2-contra-mano.gif", 22 PROXIMAMENTE
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="2da Temp", 23 Dentro de la varita
@@ -236,6 +256,7 @@ https://goo.gl/vcd9ph
 https://
  
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="3ra Temp", 01-07 La Batalla por Mewni
-https://goo.gl/t1Udgi
+#EXTGRP:Temporada 3
+https://goo.gl/FMSntV
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/B/5/1/8/7/C/6A6.png" aspect-ratio="16:9" group-title="3ra Temp", 08 PROXIMAMENTE
