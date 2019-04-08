@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 type="stream" group-title="Temporadas", Temporada 4 ==>
+#EXTGROUP: Temporada 4
+http://
+
+#EXTINF:0 type="video" aspect-ratio="16:9" group-title="4ta Temp", 22 Doug fuera
+#EXTGROUP: Temporada 4
+https://goo.gl/xZhxv7
+ 
+#EXTINF:0 type="video" aspect-ratio="16:9" group-title="4ta Temp", 23 El buen Lars
+#EXTGROUP: Temporada 4
+https://goo.gl/kR9RcE
