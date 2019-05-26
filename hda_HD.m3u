@@ -1,296 +1,501 @@
 #EXTM3U
 
-#EXTINF:0 type="video", 25-Diciembre-2018
+#EXTINF:0 type="video", 25-Mayo-2019
+#EXTGROUP: 25-Mayo-2019
 http://
-
-
-#EXTINF:0 type="video" group-tittle="Temporadas", ¡FELIZ NAVIDAD!
-http://
-
-#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="3ra Temp", Secretos navideños Parte 1
-https://goo.gl/MWuu9R
-
-#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="3ra Temp", Secretos navideños Parte 2
-https://goo.gl/13Uv8W
 
 #EXTINF:0 type="video" group-tittle="Temporadas", ULTIMOS ESTRENOS
+#EXTGROUP: ULTIMOS ESTRENOS
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="estrenos", Ven conmigo (FINAL)
+#EXTGROUP: ULTIMOS ESTRENOS
 https://goo.gl/TtXYqp
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="estrenos", Ven conmigo OPC2
+#EXTGROUP: ULTIMOS ESTRENOS
 https://goo.gl/RhTfYr
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 1
+#EXTGROUP: Temporada 1
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 01 Panico en la fiesta del Palacio
+#EXTGROUP: Temporada 1
 http://goo.gl/6X3szW
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 02 Problemas en el Espacio grumoso
+#EXTGROUP: Temporada 1
 https://goo.gl/2Aepyq
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 03 Prisioneros del Amor
+#EXTGROUP: Temporada 1
 https://goo.gl/VYDowq
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 04 Tronquitos
+#EXTGROUP: Temporada 1
 https://goo.gl/tNWZ52
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 05 El Enquiridion
+#EXTGROUP: Temporada 1
 https://goo.gl/wgfyKh
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 06 Danzarin
+#EXTGROUP: Temporada 1
 https://goo.gl/UQN47w
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 07 Ricardio corazon de leon
+#EXTGROUP: Temporada 1
 https://goo.gl/NfeXC6
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 08 Hombres de negocios
+#EXTGROUP: Temporada 1
 https://goo.gl/PCBVNX
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" group-title="1ra Temp", 09 Mis dos personas favoritas
+#EXTGROUP: Temporada 1
 https://goo.gl/aW1vmZ
 
 #EXTINF:0 type="video" tvg-logo="" group-title="1ra Temp", 10 PROXIMAMENTE 
+#EXTGROUP: Temporada 1
 http://
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 2
+#EXTGROUP: Temporada 2
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 01 Llego de la Nocheosfera
+#EXTGROUP: Temporada 2
 https://goo.gl/d4o3UB
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 02 Los ojos
+#EXTGROUP: Temporada 2
 https://goo.gl/M8wLus
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 03 Lealtad al rey
+#EXTGROUP: Temporada 2
 https://goo.gl/aaMjPs
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 04 Sangre bajo la piel
+#EXTGROUP: Temporada 2
 https://goo.gl/9s756W
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 05 El Cuentacuentos
+#EXTGROUP: Temporada 2
 https://goo.gl/yecSqB
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 06 Amor lento
+#EXTGROUP: Temporada 2
 https://goo.gl/owC68r
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="2da Temp", 07 PROXIMAMENTE 
+#EXTGROUP: Temporada 2
+http://
+
+#EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 4
+#EXTGROUP: Temporada 4
+http://
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 12 Te tengo 
+#EXTGROUP: Temporada 4
+http://bit.ly/2K6xZFx
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 13 Princesa Galleta 
+#EXTGROUP: Temporada 4
+http://bit.ly/2HB29PH
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 14 La guerra de tarjetas 
+#EXTGROUP: Temporada 4
+http://bit.ly/2XaeXSw
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 15 Hijos de Marte 
+#EXTGROUP: Temporada 4
+http://bit.ly/2MbmsHX
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 17 BMO en blanco y negro 
+#EXTGROUP: Temporada 4
+http://bit.ly/2QmeVo0
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 18 Rey Gusano 
+#EXTGROUP: Temporada 4
+http://bit.ly/2YPmFC6
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 19 Dama y Arcoiris 
+#EXTGROUP: Temporada 4
+http://bit.ly/2YRq6Iy
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 20 Tu me hiciste 
+#EXTGROUP: Temporada 4
+http://bit.ly/2HC9q1F
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 21 Quien podria ganar 
+#EXTGROUP: Temporada 4
+http://bit.ly/30HFnNE
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 22 Punto de ignicion 
+#EXTGROUP: Temporada 4
+http://bit.ly/2Qoct07
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="4ta Temp", 23 Duramente facil 
+#EXTGROUP: Temporada 4
+http://bit.ly/2X2pMpO
+
+#EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="4ta Temp", PROXIMAMENTE
+#EXTGROUP: Temporada 4
 http://
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 5
+#EXTGROUP: Temporada 5
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 05 Toda la gente pequena
+#EXTGROUP: Temporada 5
 https://goo.gl/eeNtqt
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 29 La bruja del cielo
+#EXTGROUP: Temporada 5
 https://goo.gl/og4A9c
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 31 Muy mayor
+#EXTGROUP: Temporada 5
 https://goo.gl/XH4hNU
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 34 El baul
+#EXTGROUP: Temporada 5
 https://goo.gl/3Njw4R
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 35 Juegos de amor
+#EXTGROUP: Temporada 5
 https://goo.gl/3An236
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 36 El tren calabozo
+#EXTGROUP: Temporada 5
 https://goo.gl/9thP8s
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 38 Hambre roja
+#EXTGROUP: Temporada 5
 https://goo.gl/4qYkN6
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 39 Arreglamos un Camión
+#EXTGROUP: Temporada 5
 https://goo.gl/KH6fp1
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 40 Cita de juegos
+#EXTGROUP: Temporada 5
 https://goo.gl/wuj4bf
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 44 Boda manzana
+#EXTGROUP: Temporada 5
 https://goo.gl/3mcdms
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 48 Betty
+#EXTGROUP: Temporada 5
 https://goo.gl/fJngpf
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 49 Mal momento
+#EXTGROUP: Temporada 5
 https://goo.gl/GEKgiH
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 50 Limonsito (Parte 1)
+#EXTGROUP: Temporada 5
 https://goo.gl/tVmURV
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 51 Limonsito (Parte 2)
+#EXTGROUP: Temporada 5
 https://goo.gl/H278Uy
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="5ta Temp", 52 Los ultimos deseos de Billy
+#EXTGROUP: Temporada 5
 https://goo.gl/YrWyR1
 
-#EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="5ta Temp", PROXIMAMENTE
-http://
-
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 6
+#EXTGROUP: Temporada 6
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 01 Despierta
+#EXTGROUP: Temporada 6
 https://goo.gl/ezdAjY
 
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 02 Escape de la ciudadela
+#EXTGROUP: Temporada 6
+http://bit.ly/2M9yFg0
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 03 James II
+#EXTGROUP: Temporada 6
+http://bit.ly/2W4fCZ3
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 04 La torre
+#EXTGROUP: Temporada 6
+http://bit.ly/2HC31nm
+
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 05 Cara triste
+#EXTGROUP: Temporada 6
 https://goo.gl/vDqC12
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 06 Brisa
+#EXTGROUP: Temporada 6
 https://cldup.com/s1PmbTLw6s.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 07 Cadena alimenticia
+#EXTGROUP: Temporada 6
 https://cldup.com/BnGB2k2AJy.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 09 El principe que lo queria todo 
+#EXTGROUP: Temporada 6
 https://goo.gl/vr6f1S
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 10 Algo grande
+#EXTGROUP: Temporada 6
 https://goo.gl/LRchLZ
 
-#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 11 Dentista
-https://goo.gl/4Gkwkf
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 11 Hermano pequeño
+#EXTGROUP: Temporada 6
+http://bit.ly/2VMv4UV
 
-#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp",  14 Dia de las princesas
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 12 Ocarina
+#EXTGROUP: Temporada 6
+http://bit.ly/2QlGXQD
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 13 Gracias por las manzanas, Giuseppe
+#EXTGROUP: Temporada 6
+http://bit.ly/2WsUUBy
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 14 Dia de las princesas
+#EXTGROUP: Temporada 6
 https://goo.gl/jESnAe
 
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 15 Nemesis
+#EXTGROUP: Temporada 6
+http://bit.ly/2Mjxdbk
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 17 Mosca fantasma
+#EXTGROUP: Temporada 6
+http://bit.ly/2wlDwQy
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 18 En todo esta Jake
+#EXTGROUP: Temporada 6
+http://bit.ly/2QrmcCX
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 19 ¿Eres tu?
+#EXTGROUP: Temporada 6
+http://bit.ly/2Ey7RA7
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 20 Jake el ladrillo
+#EXTGROUP: Temporada 6
+http://bit.ly/2wmKipb
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 21 Dentista
+#EXTGROUP: Temporada 6
+https://goo.gl/4Gkwkf
+
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 22 El enfriamiento
+#EXTGROUP: Temporada 6
 https://goo.gl/gwJbfz
 
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 23 Guerra de pijamas
+#EXTGROUP: Temporada 6
+http://bit.ly/2HTl1Za
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 24 Evergreen
+#EXTGROUP: Temporada 6
+http://bit.ly/2QpeB8b
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 26 Joshua y Margaret
+#EXTGROUP: Temporada 6
+http://bit.ly/2YPo8bA
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 27 El visitante
+#EXTGROUP: Temporada 6
+http://bit.ly/2VNjBEp
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 28 La montana
+#EXTGROUP: Temporada 6
+http://bit.ly/2X1lhvz
+
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 29 Purpura oscuro
+#EXTGROUP: Temporada 6
+http://bit.ly/30Lj9dN
+
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 32 Amigos por siempre
+#EXTGROUP: Temporada 6
 https://goo.gl/t6riin
 
+#EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 33 Jermaine
+#EXTGROUP: Temporada 6
+http://bit.ly/2HC2u4Q
+
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="6ta Temp", 43 El cometa
+#EXTGROUP: Temporada 6
 https://goo.gl/nRvYxk
 
 #EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="6ta Temp", PROXIMAMENTE
+#EXTGROUP: Temporada 6
 http://
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 7
+#EXTGROUP: Temporada 7
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="7ma Temp", 38 Pre-inicio 
+#EXTGROUP: Temporada 7
 https://goo.gl/7H8iGd
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="7ma Temp", 39 Re-inicio 
+#EXTGROUP: Temporada 7
 https://goo.gl/tSQHBu
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 8
+#EXTGROUP: Temporada 8
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 01 Dos espadas 
+#EXTGROUP: Temporada 8
 https://sendvid.com/n3urwurz.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 02 No hacer dano
+#EXTGROUP: Temporada 8
 http://sendvid.com/y9kip90a.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 03 Ruedas
+#EXTGROUP: Temporada 8
 http://sendvid.com/2el2z3fz.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 04 Gran Extraneza
+#EXTGROUP: Temporada 8
 http://sendvid.com/qqkuectr.mp4
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 05 Caballo y balon
+#EXTGROUP: Temporada 8
 http://sendvid.com/8j93kxhc.mp4
 
 #EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="8va Temp", 06 PROXIMAMENTE 
+#EXTGROUP: Temporada 8
 https://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 07 La invitacion
+#EXTGROUP: Temporada 8
 https://goo.gl/R9JyWR
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 08 Whipple el dragon feliz 
+#EXTGROUP: Temporada 8
 https://goo.gl/1nN44R
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 09 La isla misteriosa
+#EXTGROUP: Temporada 8
 https://goo.gl/T24J6Y
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 10 Recursos imaginarios
+#EXTGROUP: Temporada 8
 https://goo.gl/JY9Xfp
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 11 El escondite
+#EXTGROUP: Temporada 8
 https://goo.gl/TmUk4q
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 12 Min y Marty
+#EXTGROUP: Temporada 8
 https://goo.gl/YGLv3A
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 13 Ayudantes
+#EXTGROUP: Temporada 8
 https://goo.gl/ZPcYwV
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/2/2/4/3/9/6/3DD.jpg" aspect-ratio="16:9" group-title="8va Temp", 14 La nube de luz
+#EXTGROUP: Temporada 8
 https://goo.gl/vCYzsD
 
 #EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="8va Temp", 15 PROXIMAMENTE 
+#EXTGROUP: Temporada 8
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 16 Ganchos del cielo
+#EXTGROUP: Temporada 8
 https://goo.gl/FYrw38
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 17 Hecho a la medida 
+#EXTGROUP: Temporada 8
 https://goo.gl/cpog3s
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 18 Luz invernal
+#EXTGROUP: Temporada 8
 https://goo.gl/bd6FCj
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 19 Nublado
+#EXTGROUP: Temporada 8
 https://goo.gl/uLrgvu
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 20 Saliva central
+#EXTGROUP: Temporada 8
 https://goo.gl/b7Vh9f
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 21 Guerrero feliz 
+#EXTGROUP: Temporada 8
 https://goo.gl/zVedYP
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 22 Corazon de Heroe
+#EXTGROUP: Temporada 8
 https://goo.gl/NnxK5G
 
 #EXTINF:0 type="video" tvg-logo="https://k60.kn3.net/4/7/7/5/2/4/E7F.jpg" aspect-ratio="16:9" group-title="8va Temp", 23 Ganchos del Cielo II 
+#EXTGROUP: Temporada 8
 https://goo.gl/3k9JeZ
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 24 Abstracto
+#EXTGROUP: Temporada 8
 https://goo.gl/qFRGK2
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="8va Temp", 25 Historias
+#EXTGROUP: Temporada 8
 https://goo.gl/xXwsHj
 
 #EXTINF:0 type="video" tvg-logo="" aspect-ratio="16:9" group-title="8va Temp", PROXIMANENTE
+#EXTGROUP: Temporada 8
 https://
 
 #EXTINF:0 type="video" group-title="Temporadas", TEMPORADA 9
+#EXTGROUP: Temporada 9
 http://
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 05 Diecisiete
+#EXTGROUP: Temporada 9
 https://goo.gl/FoyktH
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 06 Anillo de fuego
+#EXTGROUP: Temporada 9
 https://goo.gl/YoXWat
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 07 Marcy y Hudson
+#EXTGROUP: Temporada 9
 https://goo.gl/hYR7cy
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 08 La primera investigacion
+#EXTGROUP: Temporada 9
 https://goo.gl/1B8hoC
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 09 Blenanas
+#EXTGROUP: Temporada 9
 https://goo.gl/WaQGdK
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 10 Jake el nino estrella
+#EXTGROUP: Temporada 9
 https://goo.gl/eqaSxj
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 11 El templo de marte
+#EXTGROUP: Temporada 9
 https://goo.gl/6kU7iN
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 12 Gumbaldia
+#EXTGROUP: Temporada 9
 https://goo.gl/VjVWNQ
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", 13 Diamantes y limones
+#EXTGROUP: Temporada 9
 https://goo.gl/gkgsHB
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", Ven conmigo (FINAL)
+#EXTGROUP: Temporada 9
 https://goo.gl/TtXYqp
 
 #EXTINF:0 type="video" tvg-logo="https://k61.kn3.net/0/B/0/1/7/4/4FF.png" aspect-ratio="16:9" group-title="9va Temp", Ven conmigo OPC2
+#EXTGROUP: Temporada 9
 https://goo.gl/RhTfYr
